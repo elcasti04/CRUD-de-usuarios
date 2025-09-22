@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jesús Fernández",
+      "email": "jesus@example.com",
+      "password": "123456",
+      "birthday": "2025-09-08",
+      "img_url": "https://avatar.iran.liara.run/public/boy?username=jesus"
+    },
+    {
+      "id": "11",
+      "name": "Gustavo Paredez",
+      "email": "gus@example.com",
+      "password": "123456",
+      "birthday": "2025-08-31",
+      "img_url": "https://avatar.iran.liara.run/public/boy?username=gustavo"
+    },
+    {
+      "id": 3,
+      "name": "mil",
+      "email": "jqbeifweb@gmail.com",
+      "password": "12345678765",
+      "birthday": "2000-04-23",
+      "img_url": "https://api.dicebear.com/7.x/bottts/svg?seed=Gamma"
+    },
+    {
+      "id": 4,
+      "name": "mie",
+      "email": "jqbeifweb@gmail.com",
+      "password": "12345678987654321",
+      "birthday": "2000-04-23",
+      "img_url": "https://api.dicebear.com/7.x/bottts/svg?seed=Alpha"
+    },
+    {
+      "id": 5,
+      "name": "luz kelly",
+      "email": "luzt@gmail.com",
+      "password": "123456789097654",
+      "birthday": "2005-02-28",
+      "img_url": "https://api.dicebear.com/7.x/bottts/svg?seed=Alpha"
+    }
+  ]
+}
